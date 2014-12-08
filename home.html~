@@ -7,37 +7,57 @@
 <link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
 <style>
+
 body {
   font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #FCF7F3;
+  padding-bottom: 3em;
+  
+  
  
   
 }
 
 h1 {
-	font-family: 'Dawning of a New Day', cursive;
-	color: #FF7AAE;
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
 	text-align: center;
-	font-size: 80px;
+	font-size: 35px;
+	margin-bottom: .1em;
+	
 }
 
 h2 {
 	font-family: 'Dawning of a New Day', cursive;
-	font-size: 30px;
-	color: #FF7AAE;
+	font-size: 48px;
+	color: #9EA3B0;
+	text-align: center;
+	margin-top:.2em;
+	
 }
+
+
+
+
 
 
 #NavBar {
 	
 	text-align: center;
 	color: black;
+	background-color: white;
 	border-top: 2px dotted;
 	border-bottom: 2px solid;
-	border-color: #EAEAEA;
+	border-color: #FAE1DF;
 	padding-left: .2em;
 	padding-right: .5em;
-	font-family: 'Oswald', sans-serif;
+	padding-top: .2em;
+	padding-bottom: .2em;
+	margin-bottom: 2em;
+	font-family: 'Josefin Sans', sans-serif;
 	
 	
 
@@ -49,40 +69,59 @@ h2 {
 	margin-right: 4em;
 	padding-left: 2em;
 	padding-right: 4em;
-	padding-bottom: 1em;
+	padding-bottom: 15em;
+	background-color: white;
+	
+	
 	
 }
 
+
+
+
+
 a {
-	color:#C6D6D6;
+	color:black;
 	text-decoration: none;
-	font-size: 20px;
-	padding: 1em;
+	font-size: 12px;
+	padding: 3em;
+	
+}
+
+a:hover {
+	color: #FAE1DF;
+}
+
+img {
+	float: left;
+	padding-bottom: 2em;
 	
 }
 </style>
 </head>
 <body>
 
-<h1><em>Theodora Jane Malison</em></h1>
+
+<h1>THEODORA</h1> <h2><em>Jane Malison</em></h2>
 
 
 	<div id="NavBar"> 
 		
-			<a href="home.html">Home</a>
-			<a href="aboutme.html">About</a>
-			<a href="publishedwork.html"> Published Work</a>
-			<a href="contact.html">Conact</a>
-			<a href-"blogpage.html">Blog</a>
+			<a href="home.html">HOME</a>
+			<a href="aboutme.html">ABOUT</a>
+			<a href="publishedwork.html"> PUBLISHED WORK</a>
+			<a href="contact.html">CONTACT</a>
+			<a href="blogpage.html">BLOG</a>
 		
 	</div>
 	<div id="content"> 
 		<h2>Who I Am...</h2>
 		<div id="checkitout" style="color: black;">
-			<h3>Welcome to My Online Portfolio</h3>
-			<img src="AboutMePicFinal.jpg">
-			<img src="AboutMePic2.jpg">
-			<p>I am a Senior Communications major with a minor in Journalism at Saint Joseph's University. Formerly a full time figure skater, I am finding my way in the wonderful world of communications, having completed a summer internship at <b>QVC television studios</b> and most recently finished an internship at <b>Main Line Today Magazine</b>. You'll often find me wearing the wonderous patterns of Lilly Pulitzer with a large cup of coffee in one hand and an even larger bag in the other. I am an aspiring magazine writer hoping to have a column to call my own-- I may be dreaming big, but I'd say that's better than not dreaming at all. </p>
+			
+			<img src="WebDesignAboutPic.jpg">
+			
+			<p>I am a Senior Communications major with a minor in Journalism at Saint Joseph's University. Formerly a full time figure skater, I am finding my way in the wonderful world of communications, having completed a summer internship at <b>QVC television studios</b> and most recently finished an internship at <b>Main Line Today Magazine</b>. I decided to end my full time career as an athlete in pursuit of something I felt was left unfulfilled and pushed to the side for quite some time: my writing potential. The choice was anything but easy- five rings, or five classes. But to this day, I don't (always) look back.</p>
+			<p>You'll often find me wearing the wonderous patterns of Lilly Pulitzer, hiding behind a pair of cateye sunglasses (not really hiding) with a large cup of coffee in one hand and an even larger bag in the other. Or sometimes you'll find me juggling a green smoothie alongside of the coffee and oversized bag. I am a goal-driven, aspiring magazine writer hoping to have a column to call my own. I may be dreaming big- but I'd say that's better than not dreaming at all. </p>
 		</div>
 		
 		</div>
