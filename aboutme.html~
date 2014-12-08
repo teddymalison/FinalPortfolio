@@ -50,6 +50,7 @@ h2 {
 	margin-right: 4em;
 	padding-left: 2em;
 	padding-right: 4em;
+	padding-bottom: 2em;
 	
 }
 
@@ -71,10 +72,11 @@ a {
 
 	<div id="NavBar"> 
 		
-			<a href="page1.htm">Home</a>
-			<a href="page2.htm">About</a>
-			<a href="page3.htm">Conact</a>
-			<a href-"page4.html">Blog</a>
+			<a href="home.html">Home</a>
+			<a href="aboutme.html">About</a>
+			<a href="publishedwork.html"> Published Work</a>
+			<a href="contact.html">Conact</a>
+			<a href-"blogpage.html">Blog</a>
 		
 	</div>
 	<div id="content"> 

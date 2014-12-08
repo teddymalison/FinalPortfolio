@@ -7,32 +7,26 @@
 <link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
 <style>
 
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  background-color: #FCF7F3;
+ 
   
 }
 
 h1 {
-	font-family: 'Josefin Sans', sans-serif;
-	color: black;
+	font-family: 'Dawning of a New Day', cursive;
+	color: #FF7AAE;
 	text-align: center;
-	font-size: 35px;
-	margin-bottom: .1em;
-	
+	font-size: 80px;
 }
 
 h2 {
 	font-family: 'Dawning of a New Day', cursive;
-	font-size: 48px;
-	color: #9EA3B0;
+	font-size: 40px;
+	color: #FF7AAE;
 	text-align: center;
-	margin-top:.2em;
-	
 }
 
 
@@ -42,11 +36,10 @@ h2 {
 	color: black;
 	border-top: 2px dotted;
 	border-bottom: 2px solid;
-	border-color: #FAE1DF;
+	border-color: #EAEAEA;
 	padding-left: .2em;
 	padding-right: .5em;
-	padding-top: .2em;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	
 	
 
@@ -59,51 +52,45 @@ h2 {
 	padding-left: 2em;
 	padding-right: 4em;
 	
-	
+}
+
+#Contact {
+	margin: 1px;
 }
 
 
 
 a {
-	color:black;
+	color:#C6D6D6;
 	text-decoration: none;
-	font-size: 15px;
+	font-size: 20px;
 	padding: 1em;
 	
 }
-
-a:hover {
-	color: #FAE1DF;
-}
-
-img {
-	padding-bottom: 2em;
-}
-
 </style>
 </head>
 <body>
 
-
-<h1>THEODORA</h1> <h2><em>Jane Malison</em></h2>
+<h1><em>Theodora Jane Malison</em></h1>
 
 
 	<div id="NavBar"> 
-			<a href="home.html">HOME</a>
-			<a href="aboutme.html">ABOUT</a>
-			<a href="publishedwork.html"> PUBLISHED WORK</a>
-			<a href="contact.html">CONTACT</a>
-			<a href="blogpage.html">BLOG</a>
-			</div>
+		
+			<a href="home.html">Home</a>
+			<a href="aboutme.html">About</a>
+			<a href="publishedwork.html"> Published Work</a>
+			<a href="contact.html">Conact</a>
+			<a href-"blogpage.html">Blog</a>
 		
 	</div>
 	<div id="content"> 
-		<h2>Follow my journey...</h2>
-		<p>as I blog my adventures, happenings and favorites:</p>
-		<div id="blogPage" style="color: black;">
-		<br>
-		<a href="http://www.coffeecurlsgirlsinpearls.com/"><img src="BlogLogoFinal.png" alt="bloglink"></a>
-			
+		<h2>Get in touch!</h2>
+		<div id="Contact" style="color: black;">
+		
+			<li><b>Email:</b> teddymalison@gmail.com</li>
+			<li><b>Phone:</b> 609.713.5015</li>
+			<li><b>Twitter:</b> @t_j_m_Xo</li>
+			<li><b>Instagram:</b> theodora_janeXo</li>
 		
 
 
@@ -117,4 +104,4 @@ img {
 
 </section>
 </body>
-</html>
+</html>	

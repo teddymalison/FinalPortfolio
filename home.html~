@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Theodora Jane Malison</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+<style>
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+ 
+  
+}
+
+h1 {
+	font-family: 'Dawning of a New Day', cursive;
+	color: #FF7AAE;
+	text-align: center;
+	font-size: 80px;
+}
+
+h2 {
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: 30px;
+	color: #FF7AAE;
+}
+
+
+#NavBar {
+	
+	text-align: center;
+	color: black;
+	border-top: 2px dotted;
+	border-bottom: 2px solid;
+	border-color: #EAEAEA;
+	padding-left: .2em;
+	padding-right: .5em;
+	font-family: 'Oswald', sans-serif;
+	
+	
+
+}
+
+#content {
+	text-align: center;
+	margin-left: 5em;
+	margin-right: 4em;
+	padding-left: 2em;
+	padding-right: 4em;
+	padding-bottom: 1em;
+	
+}
+
+a {
+	color:#C6D6D6;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 1em;
+	
+}
+</style>
+</head>
+<body>
+
+<h1><em>Theodora Jane Malison</em></h1>
+
+
+	<div id="NavBar"> 
+		
+			<a href="home.html">Home</a>
+			<a href="aboutme.html">About</a>
+			<a href="publishedwork.html"> Published Work</a>
+			<a href="contact.html">Conact</a>
+			<a href-"blogpage.html">Blog</a>
+		
+	</div>
+	<div id="content"> 
+		<h2>Who I Am...</h2>
+		<div id="checkitout" style="color: black;">
+			<h3>Welcome to My Online Portfolio</h3>
+			<img src="AboutMePicFinal.jpg">
+			<img src="AboutMePic2.jpg">
+			<p>I am a Senior Communications major with a minor in Journalism at Saint Joseph's University. Formerly a full time figure skater, I am finding my way in the wonderful world of communications, having completed a summer internship at <b>QVC television studios</b> and most recently finished an internship at <b>Main Line Today Magazine</b>. You'll often find me wearing the wonderous patterns of Lilly Pulitzer with a large cup of coffee in one hand and an even larger bag in the other. I am an aspiring magazine writer hoping to have a column to call my own-- I may be dreaming big, but I'd say that's better than not dreaming at all. </p>
+		</div>
+		
+		</div>
+	</div>
+</div>
+
+
+
+</section>
+</body>
+</html>	
