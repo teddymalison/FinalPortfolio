@@ -7,26 +7,32 @@
 <link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
 <style>
 
 body {
   font-family: 'Open Sans Condensed', sans-serif;
- 
+  background-color: #FCF7F3;
   
 }
 
 h1 {
-	font-family: 'Dawning of a New Day', cursive;
-	color: #FF7AAE;
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
 	text-align: center;
-	font-size: 80px;
+	font-size: 35px;
+	margin-bottom: .1em;
+	
 }
 
 h2 {
 	font-family: 'Dawning of a New Day', cursive;
-	font-size: 40px;
-	color: #FF7AAE;
+	font-size: 48px;
+	color: #9EA3B0;
 	text-align: center;
+	margin-top:.2em;
+	
 }
 
 
@@ -34,12 +40,15 @@ h2 {
 	
 	text-align: center;
 	color: black;
+	background-color: white;
 	border-top: 2px dotted;
 	border-bottom: 2px solid;
-	border-color: #EAEAEA;
+	border-color: #FAE1DF;
 	padding-left: .2em;
 	padding-right: .5em;
-	font-family: 'Oswald', sans-serif;
+	padding-top: .2em;
+	margin-bottom: 2em;
+	font-family: 'Josefin Sans', sans-serif;
 	
 	
 
@@ -51,43 +60,52 @@ h2 {
 	margin-right: 4em;
 	padding-left: 2em;
 	padding-right: 4em;
+	background-color: white;
 	
-}
-
-#blogPage {
-	margin: 1px;
+	
 }
 
 
 
 a {
-	color:#C6D6D6;
+	color:black;
 	text-decoration: none;
-	font-size: 20px;
-	padding: 1em;
+	font-size: 12px;
+	padding: 3em;
 	
 }
+
+a:hover {
+	color: #FAE1DF;
+}
+
+img {
+	padding-bottom: 2em;
+}
+
 </style>
 </head>
 <body>
 
-<h1><em>Theodora Jane Malison</em></h1>
+
+<h1>THEODORA</h1> <h2><em>Jane Malison</em></h2>
 
 
 	<div id="NavBar"> 
-			<a href="home.html">Home</a>
-			<a href="aboutme.html">About</a>
-			<a href="publishedwork.html"> Published Work</a>
-			<a href="contact.html">Conact</a>
-			<a href-"blogpage.html">Blog</a>
+			<a href="home.html">HOME</a>
+			<a href="aboutme.html">ABOUT</a>
+			<a href="publishedwork.html"> PUBLISHED WORK</a>
+			<a href="contact.html">CONTACT</a>
+			<a href="blogpage.html">BLOG</a>
 			</div>
 		
 	</div>
 	<div id="content"> 
-		<h2>Follow my journey as I blog my adventures, happenings and favorites:</h2>
+		<h2>Follow my journey...</h2>
+		<p>as I blog my adventures, happenings and favorites:</p>
 		<div id="blogPage" style="color: black;">
 		<br>
-		<a href="http://www.coffeecurlsgirlsinpearls.com/"><b>Coffee, Curls, and Girls in Pearls</b></a>
+		<a href="http://www.coffeecurlsgirlsinpearls.com/"><img src="BlogLogoFinal.png" alt="bloglink"></a>
 			
 		
 
