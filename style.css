@@ -1,15 +1,11 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<title>Theodora Jane Malison</title>
-<meta charset="utf-8" />
+<style>
+
 <link rel="stylesheet" href="style.css">
 <link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
-<style>
 
 body {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -83,44 +79,3 @@ a:hover {
 	color: #FAE1DF;
 }
 </style>
-</head>
-<body>
-
-
-<h1>THEODORA</h1> <h2><em>Jane Malison</em></h2>
-
-
-	<div id="NavBar"> 
-		
-			<a href="home.html">HOME</a>
-			<a href="aboutme.html">ABOUT</a>
-			<a href="publishedwork.html"> PUBLISHED WORK</a>
-			<a href="contact.html">CONTACT</a>
-			<a href="blogpage.html">BLOG</a>
-		
-	</div>
-	<div id="content"> 
-		<h2>Let's get social!</h2>
-		<div id="Contact" style="color: black;">
-		
-			<b>Email:</b> teddymalison@gmail.com
-			<br>
-			<br>
-			
-			<a href="http://www.pinterest.com/theodorajane/"><img src="pinterest.png"></a>
-			<a href="https://twitter.com/t_j_m_Xo"><img src="twitter.png"></a>
-			<a href="http://instagram.com/theodora_janexo"><img src="instagram.png"></a>
-		
-
-
-		</div>
-		
-		</div>
-	</div>
-</div>
-
-
-
-</section>
-</body>
-</html>	
