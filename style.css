@@ -3,6 +3,7 @@
 body {
   font-family: 'Open Sans Condensed', sans-serif;
   background-color: #FCF7F3;
+  padding-bottom: 1em;
  
   
 }
@@ -45,6 +46,8 @@ h2 {
 
 }
 
+
+
 #content {
 	text-align: center;
 	margin-left: 5em;
@@ -55,7 +58,6 @@ h2 {
 	background-color: white;
 	
 }
-
 
 
 
