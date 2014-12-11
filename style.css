@@ -46,41 +46,59 @@ h2 {
 
 }
 
-
-img {
-	float: left;
+#Journey {
+	text-align: center;
+	background-color: white;
+	margin-left: 5em;
+	margin-right: 5em;
 	
 }
+
+
 
 #content {
 	text-align: center;
 	margin-left: 5em;
-	margin-right: 4em;
+	margin-right: 5em;
 	padding-left: 2em;
 	padding-right: 4em;
-	padding-bottom: .5em;
+	padding-bottom: 2em;
 	background-color: white;
-	float: right;
+	
+	
 	
 	
 }
+
+
 
 #SocialMedia {
 	text-align: center;
 	margin-left: 5em;
-	margin-right: 4em;
+	margin-right: 5em;
 	padding-left: 2em;
 	padding-right: 4em;
 	padding-bottom: .5em;
 	background-color: white;
 	
+	
 }
 
 
-#SocialIcons {
-	position: center;
+#AboutInfo {
+	padding-bottom: 2em;
+	background-color: white;
+	margin-bottom: 5em;
+	
 }
 
+#checkitout {
+	float: left;
+	padding-bottom: 4em;
+	
+	
+	
+}
 
 
 a {
